@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181110142211",
+    "firebase_url": "https://fir-application-babdb.firebaseio.com",
+    "project_id": "fir-application-babdb",
+    "storage_bucket": "fir-application-babdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181110142211:android:e78af25dac13aadc33a536",
+        "android_client_info": {
+          "package_name": "km.project.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181110142211-i1sr8143cnjl1a4sge612tl5r7t02h5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "km.project.firebaseapplication",
+            "certificate_hash": "d63cd338b4ef067feb0796af9882c8db3be46219"
+          }
+        },
+        {
+          "client_id": "181110142211-jo3tmnjpi0f1ut1qpti7u83qqfqlsd0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIk2jEfcwWNDZqHgCktMclMKvExAZBgNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181110142211-jo3tmnjpi0f1ut1qpti7u83qqfqlsd0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
